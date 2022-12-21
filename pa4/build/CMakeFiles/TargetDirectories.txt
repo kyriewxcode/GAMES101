@@ -1,3 +1,0 @@
-/home/cs18/Desktop/pa4/build/CMakeFiles/rebuild_cache.dir
-/home/cs18/Desktop/pa4/build/CMakeFiles/BezierCurve.dir
-/home/cs18/Desktop/pa4/build/CMakeFiles/edit_cache.dir
